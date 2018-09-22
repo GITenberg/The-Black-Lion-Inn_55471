@@ -1,5 +1,5 @@
 _repo: The-Black-Lion-Inn_55471
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Remington, Frederic
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2565'
     url: http://www.gutenberg.org/2009/agents/2565
     wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+covers:
+- cover_type: archival
+  image_path: 55471-h/images/cover.jpg
 creator:
   author:
     agent_name: Lewis, Alfred Henry
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1257
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55471#The-Black-Lion-Inn
 gutenberg_issued: '2017-08-31'
 gutenberg_type: Text
 identifiers:
