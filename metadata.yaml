@@ -1,0 +1,36 @@
+_repo: The-Black-Lion-Inn_55471
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Remington, Frederic
+    alias: Remington, Frederic Sackrider
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: ''
+gutenberg_issued: '2017-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+title: The Black Lion Inn
+url: http://www.gutenberg.org/ebooks/55471
